@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.menu{
+	background-color: #cf0038;
+}
+a{
+	color: #eff089;
+}
+.container-fluid{
+	background-image: url(../img/creamy.jpg);
+	background-position: center;
+	
+}
+.bg-negro{
+	background-color: black;
+	opacity: 0.8;
+	padding: 10% 0;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+.parrafo1{
+	color: white;
+	text-align: center;
+}
+
+.creamy{
+	background-color: #eff089;
+	
+}
+h3{
+	color:#cf0038;
+	text-align: center;
+	padding: 20px 0px;
+}
+.parrafo2{
+	color:#cf0038;
+	text-align: center;
+}
+.helado{
+	width: 80%;
+}
