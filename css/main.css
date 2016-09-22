@@ -10,8 +10,7 @@ a{
 }
 .container-fluid{
 	background-image: url(../img/creamy.jpg);
-	background-position: center;
-	
+	background-position: center;	
 }
 .bg-negro{
 	background-color: black;
@@ -29,17 +28,55 @@ h1{
 
 .creamy{
 	background-color: #eff089;
-	
+	padding: 2px;	
 }
 h3{
 	color:#cf0038;
 	text-align: center;
-	padding: 20px 0px;
+	padding: 8%;
 }
 .parrafo2{
 	color:#cf0038;
 	text-align: center;
+	padding: 4%;
 }
 .helado{
 	width: 80%;
+	padding: 4%;
 }
+.topping{
+	background-color: #cf0038; 
+	padding: 150px 0px;
+}
+h2{
+	color: #eff089;
+	text-align: center;
+}
+.parrafo3{
+	color: #eff089;
+	text-align: center;
+}
+
+.iconos{
+	background-color: #eff089;
+	padding: 150px 0px;
+}
+.iconitos{
+	font-size: 24px;
+}
+.parrafo4{
+	color:#cf0038;
+	text-align: center;	
+}
+.title2{
+	color:#cf0038;
+	text-align: center;	
+	font-size: 20px;
+}
+footer{
+	padding: 20px 0px;
+	background-color: #cf0038;
+	color: #eff089; 
+}
+
+
